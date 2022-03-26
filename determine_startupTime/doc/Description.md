@@ -20,3 +20,6 @@ Example
 ``` bash
 ./echo_Hello.sh
 ```
+### Commentary article
+I wrote  article in Japanese on 26th March 2022.  
+[Please read the article!](https://qiita.com/LittleBear-6w6/items/a6f0f3d88ef5dd9185a0)
