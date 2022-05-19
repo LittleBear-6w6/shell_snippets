@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/LittleBear-6w6/shell_snippets)
+
 # shell_snippets
 This repository is library of shell scripts snippets.
 
